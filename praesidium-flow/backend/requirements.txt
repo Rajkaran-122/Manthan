@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+redis
+numpy
+opencv-python
+ultralytics
+torch
+torchvision
+torchaudio
+# For GNN (if using PyG or DGL, add dependencies here)
+# e.g., torch-geometric 
